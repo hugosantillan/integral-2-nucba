@@ -1,0 +1,55 @@
+[33mcommit f86b23c6e229930f36b0707c25a1b33e40afb319[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Hugo Santillan <hugorenzosantillan@gmail.com>
+Date:   Tue Jul 27 21:48:16 2021 -0300
+
+    mi primer commit
+
+[33mcommit 86f0b0337ea624d3b309b840abba87e8300c1e4b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luisprado-ar <luisprado.ar@gmail.com>
+Date:   Tue Jul 27 10:57:25 2021 -0300
+
+    se resuelve conflicto con Style2 ---> Bye Style2
+
+[33mcommit ef59ed033df39a89e598711572f6a3b31c0c81b8[m
+Merge: 431ba1a 8a7dff8
+Author: Daiana Ortiz <daianayortiz@live.com>
+Date:   Tue Jul 27 10:47:33 2021 -0300
+
+    add style
+
+[33mcommit 431ba1aa60c18d9927b00734220d3886ac33b868[m
+Merge: 8cc90a5 ae7d259
+Author: Daiana Ortiz <daianayortiz@live.com>
+Date:   Tue Jul 27 10:45:20 2021 -0300
+
+    add landing
+
+[33mcommit 8a7dff88a0388b5874dfe3d22172bb852cdd6a05[m
+Author: luisprado-ar <luisprado.ar@gmail.com>
+Date:   Tue Jul 27 10:22:56 2021 -0300
+
+    hoja de stilos style2
+
+[33mcommit 8cc90a556cdb03d66e91fbd417d832aac9758558[m
+Author: Daiana Ortiz <daianayortiz@live.com>
+Date:   Tue Jul 27 10:20:59 2021 -0300
+
+    add landing
+
+[33mcommit ae7d259e972533310c4015f3a9ed096d6a71ca47[m
+Author: luisprado-ar <luisprado.ar@gmail.com>
+Date:   Mon Jul 26 22:38:46 2021 -0300
+
+    recursos (favicon)
+
+[33mcommit 9618f7ddc07581a7cfed4f5ab36d70bf18d56d36[m
+Author: luisprado-ar <luisprado.ar@gmail.com>
+Date:   Mon Jul 26 21:22:11 2021 -0300
+
+    Estructura form contact y footer, se agregó liberia Font Awesome
+
+[33mcommit 5788b34415721363623bf60e08faf64b351452b7[m
+Author: luisprado-ar <luisprado.ar@gmail.com>
+Date:   Mon Jul 26 18:56:47 2021 -0300
+
+    Estructura y recursos básicos
